@@ -1,4 +1,6 @@
-#AWS Three-Tier Architecture Project
+AWS Three-Tier Architecture Project
+
+
 This project demonstrates the deployment of a scalable and secure web application using a three-tier architecture on AWS. It utilizes the following components:
 
 Application Load Balancer (ALB): Distributes traffic across EC2 instances in the web tier.
